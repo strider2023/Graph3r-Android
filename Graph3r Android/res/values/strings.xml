@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Graph3r</string>
+    <string name="splash_image">Splash Image</string>
+    <string name="appbar_image">Appbar Image</string>
+    <string-array name="graph_types">
+        <item>Line Graph</item>
+        <item>Bar Graph</item>
+        <item>Pie Chart</item>
+        <item>Meter Graph</item>
+    </string-array>
+</resources>

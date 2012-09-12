@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:src="@drawable/grapher"
+    android:layout_gravity="left"
+    android:scaleType="fitStart"
+    android:background="@drawable/ab_solid_light_holo"
+    android:contentDescription="@string/appbar_image"/>
